@@ -18,7 +18,7 @@ This book covers the following exciting features:
 * Design structured, semi-structured, and unstructured data for your applications and analytics
 * Improve observability, performance, security, scalability, latency SLAs, SLIs, and SLOs
 
-If you feel this book is for you, get your [copy](https://www.amazon.in/Database-Design-Modeling-Google-Cloud/dp/180461145X/ref=monarch_sidesheet) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Database-Design-Modeling-Google-Cloud/dp/180461145X/ref=monarch_sidesheet) today!
 
 <a href="https://www.packtpub.com/product/database-design-and-modeling-with-google-cloud/9781804611456"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
